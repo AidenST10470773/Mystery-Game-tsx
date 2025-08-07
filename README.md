@@ -65,16 +65,12 @@ The design of the **Mystery Number Challenge** was based on the following key co
 
 -----
 
-## GitHub and GitHub Actions
+## App screenshots
+<img width="386" height="774" alt="Screenshot 2025-08-07 212605" src="https://github.com/user-attachments/assets/64341e03-faeb-484d-b96d-9aa988f895ff" />
+<img width="400" height="737" alt="Screenshot 2025-08-07 212615" src="https://github.com/user-attachments/assets/613a47b8-21e4-484d-a52e-74966a7dac66" />
+<img width="1906" height="915" alt="Screenshot 2025-08-07 212527" src="https://github.com/user-attachments/assets/bd543541-6a67-4baa-abde-27d0ca9d163b" />
 
-This project was managed using **GitHub** for version control, where all code changes can be committed and pushed regularly. GitHub enables collaborative coding and helps to maintain project integrity.
 
-### GitHub Actions:
-
-**GitHub Actions** can be utilized to automate the build and deployment process. This can include:
-
-  - Running automated tests on every push to the repository to ensure the app's functionality.
-  - Compiling the **React Native** app for different platforms, such as **APK** and **AAB** files for Android, or an iOS build.
 
 -----
 
